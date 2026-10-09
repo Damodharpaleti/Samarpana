@@ -1,0 +1,2 @@
+D:/suyoga_working/Samarpana_latest/samarpana-mobile-app/Samarpana/android/app/.cxx/debug/2g4x643z/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/suyoga_working/Samarpana_latest/samarpana-mobile-app/Samarpana/android/app/.cxx/debug/2g4x643z/armeabi-v7a/CMakeFiles/rebuild_cache.dir
